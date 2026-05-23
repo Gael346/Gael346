@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Gael346/Gael346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gael, I'm 14 years old, I've been learning programming for 2 years, and I'm from Spain.
 
-Here are some ideas to get you started:
+I'm currently taking the CS50 course and working on quick mini‑projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+—I like to learn by doing—
+
+## Skills
+- C# --> Unity game development
+- C --> structure and memory management
+- Python --> terminal projects
+- I work with code repositories on GitHub and Visual Studio Code
+- My English isn't perfect, but I can work in it.
+
+## Collaborations
+I'd like to collaborate on some small projects, preferably terminal-based, but if it's something in Unity, please contact me.
+
+## Contact
+Send an email to leomontsar@gmail.com
+
+## Featured Project
+<project>
+
+## Fun Facts
+- I have a turtle
+- I like to learn
+- I love Japanese food
