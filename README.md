@@ -2,7 +2,7 @@
 
 My name is Gael, I'm 14 years old, I've been learning programming for 2 years, and I'm from Spain.
 
-I'm currently taking the CS50 course and working on quick mini‑projects.
+I'm currently taking the CS50x course and working in the CS50x final project and my project [Structures-For-C](https://github.com/Gael346/Structures-for-c-)
 
 —I like to learn by doing—
 
@@ -10,7 +10,7 @@ I'm currently taking the CS50 course and working on quick mini‑projects.
 - C# --> Unity game development
 - C --> structure and memory management
 - Python --> terminal projects
-- I work with code repositories on GitHub and Visual Studio Code
+- I work with Viusal Studio Code
 - My English isn't perfect, but I can work in it.
 
 ## Collaborations
@@ -20,7 +20,7 @@ I'd like to collaborate on some small projects, preferably terminal-based, but i
 Send an email to leomontsar@gmail.com
 
 ## Featured Project
-<project>
+[Structures-For-C](https://github.com/Gael346/Structures-for-c-)
 
 ## Fun Facts
 - I have a turtle
