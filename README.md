@@ -9,6 +9,8 @@ My name is Gael, I'm 14 years old, I've been learning programming for 2 years, a
 - C# --> Unity game development
 - C --> structure and memory management
 - Python --> terminal projects
+- Web : html , css , javascript and boostrap
+- SQL --> little databases
 - I work with Viusal Studio Code
 - My English isn't perfect, but I can work in it.
 
