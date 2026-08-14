@@ -2,8 +2,6 @@
 
 My name is Gael, I'm 14 years old, I've been learning programming for 2 years, and I'm from Spain.
 
-—I like to learn by doing—
-
 ## Skills
 - 🎓 Completed Harvard's **CS50x** (C, Python, SQL) — [Verification Certificate](https://cs50.harvard.edu/certificates/6b1ea3d2-e8f2-41d0-898d-752c2364d32c)
 - C# --> Unity game development
@@ -15,7 +13,7 @@ My name is Gael, I'm 14 years old, I've been learning programming for 2 years, a
 - My English isn't perfect, but I can work in it.
 
 ## Collaborations
-I'd like to collaborate on some small projects, preferably terminal-based, but if it's something in Unity, please contact me.
+I'm open to any collaboration
 
 ## Contact
 Send an email to leomontsar@gmail.com
