@@ -10,7 +10,6 @@ My name is Gael, I'm 14 years old, I've been learning programming for 2 years, a
 - Web : html , css , javascript and boostrap
 - SQL --> little databases
 - I work with Viusal Studio Code
-- My English isn't perfect, but I can work in it.
 
 ## Collaborations
 I'm open to any collaboration
